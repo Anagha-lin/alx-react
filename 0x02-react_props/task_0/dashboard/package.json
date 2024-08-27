@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-app",
+  "version": "1.0.0",
+  "description": "A simple dashboard application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test defined\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anonymous",
+  "license": "ISC"
+}
+
