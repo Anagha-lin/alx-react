@@ -1,13 +1,16 @@
 {
-  "name": "dashboard-app",
+  "name": "dashboard",
   "version": "1.0.0",
-  "description": "A simple dashboard application",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test defined\" && exit 1"
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Anonymous",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
-
