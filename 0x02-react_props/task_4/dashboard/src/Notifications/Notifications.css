@@ -1,0 +1,19 @@
+.menuItem {
+  cursor: pointer;
+}
+
+.Notifications {
+  border: 1px solid red;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 400px;
+  background-color: white;
+}
+
+.Notifications button {
+  background: transparent;
+  border: none;
+}
+
