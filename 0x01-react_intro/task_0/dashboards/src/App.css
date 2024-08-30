@@ -1,13 +1,9 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   padding: 20px;
   color: white;
 }
@@ -18,10 +14,11 @@
 
 .App-footer {
   background-color: #282c34;
-  padding: 10px;
   color: white;
-  position: fixed;
-  width: 100%;
+  text-align: center;
+  padding: 20px;
+  position: absolute;
   bottom: 0;
+  width: 100%;
 }
 
