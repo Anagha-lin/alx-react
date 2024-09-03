@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    color: #e0344a;
+    align-items: center;
+    border-bottom: 4px solid #e0344a; /* Changed 'thick' to '4px' for consistency */
+    width: 100%;
+    position: fixed;
+}
+
+.header img {
+    width: 144px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
