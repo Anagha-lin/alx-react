@@ -1,0 +1,16 @@
+{
+  "name": "0x07-react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "description": "0x07-react_redux_action_creator_normalizr",
+  "main": "index.js",
+  "dependencies": {
+    "normalizr": "^3.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
